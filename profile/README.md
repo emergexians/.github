@@ -1,6 +1,6 @@
 # 🚀 Emergexians Infotech Pvt Ltd
 
-![Emergexians Banner](https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/code.svg)
+![Emergexians Banner](https://emergexians.com/assets/img/logo.png)
 
 **Official Website:** [https://emergexians.com](https://emergexians.com)  
 📍 **Location:** Dwarka Sector‑14, New Delhi, India  
